@@ -2,3 +2,4 @@
 *.so # Shared libraries
 .project
 .settings
+*.o # Output file
