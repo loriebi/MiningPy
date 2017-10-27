@@ -1,0 +1,4 @@
+*.pyc # Python precompiled file
+*.so # Shared libraries
+.project
+.settings
